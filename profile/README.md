@@ -1,4 +1,4 @@
-<img src="cashapp.png">
+<img src="profile/cashapp.png">
 
 [Cash Code Blog](https://code.cash.app/)
 
