@@ -1,4 +1,4 @@
-<a href="https://cash.app/"><img src="profile/banner.png"></a>
+<a href="https://cash.app/"><img src="https://raw.githubusercontent.com/cashapp/.github/main/profile/banner.png"></a>
 
 [Cash Code Blog](https://code.cash.app/)
 
